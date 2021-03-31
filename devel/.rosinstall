@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/snow/bringup/devel/setup.sh

@@ -1,0 +1,2 @@
+ai_camp_bringup:usb_cam
+-DCATKIN_DEVEL_PREFIX=/home/snow/bringup/devel -DCMAKE_INSTALL_PREFIX=/home/snow/bringup/install -G Unix Makefiles
